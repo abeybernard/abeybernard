@@ -1,8 +1,8 @@
 ### Hi there, I'm @abeybernard
- 🌱 I’m currently learning Full Stack Development
- 👀 I’m interested in Python, Web Development
- 📫 How to reach me: 
- Email: abeybernard321@gmail.com
+ - 🌱 I’m currently learning Full Stack Development
+ - 👀 I’m interested in Python, Web Development
+ - 📫 How to reach me: 
+    Email:abeybernard321@gmail.com
 <!--
 **abeybernard/abeybernard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
